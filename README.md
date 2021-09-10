@@ -40,7 +40,11 @@ Using Decision Tree getting Accuracy/Score:-
 Random forests or random decision forests are an ensemble learning method for classification & regression and other tasks that operates by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees. Random decision forests correct for decision trees’ habit of overfitting to their training set.
 ## PERFORMANCE EVALUATION
 Using Decision Tree getting Accuracy/Score:-
-###### Training Score - 99.88% 
+###### Training Score - 99.87% 
 ###### Test Score - 99.22%
 ## USING RANDOMIZED SEARCHCV
 Randomized searchcv is a technique for evaluating a machine learning model & testing its performance. CV is commonly used in applied Machine Learning tasks. Here we are using Randomized Searchcv for finding better parameters of Random Forest Regressor that increase our model accuracy.
+###### Training Score - 99.81% 
+###### Test Score - 99.17%
+## Conclusion
+Machine learning has strong potential for improving estimation of future suicide risk and for monitoring changes in this risk over time; however, important challenges remain before this benefit can be realized clinically. As important as pure predictive ability, we need to explore the best ways to represent risk to the clinician, so it is easily interpretable, actionable, and minimizes alert fatigue.
